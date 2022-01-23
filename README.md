@@ -1,1 +1,1 @@
-# TF_fashion_classifier
+Building my first Neural Network using tensorflow.keras Sequential model
